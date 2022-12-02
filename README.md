@@ -33,4 +33,4 @@ uvicorn main:app --reload --host 0.0.0.0
 ![img.png](img/img4.jpg)  
 
 ## 客户端请求  
-这里列举了python客户端请求方式，详情参考"python亲贵方式_demo.py"文件。
+这里列举了python客户端请求方式，详情参考"python请求方式_demo.py"文件。
